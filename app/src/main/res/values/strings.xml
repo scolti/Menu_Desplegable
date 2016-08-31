@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Informes</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="inicio">Inicio</string>
+    <string name="trabajos">Trabajos</string>
+    <string name="amigos">Amigos</string>
+    <string name="ubicaciones">Ubicaciones</string>
+    <string name="informes">Modelos Informes</string>
+
+</resources>
